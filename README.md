@@ -1,0 +1,2 @@
+# shwarsutils
+Miscallaneous Python utilities
